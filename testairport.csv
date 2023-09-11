@@ -1,0 +1,14 @@
+"id","ident","type","name","latitude_deg","longitude_deg","elevation_ft","continent","iso_country","iso_region","municipality","scheduled_service","gps_code","iata_code","local_code","home_link","wikipedia_link","keywords"
+6523,"00A","heliport","Total RF Heliport",40.070985,-74.933689,11,"NA","US","US-PA","Bensalem","no","K00A",,"00A","https://www.penndot.pa.gov/TravelInPA/airports-pa/Pages/Total-RF-Heliport.aspx",,
+323361,"00AA","small_airport","Aero B Ranch Airport",38.704022,-101.473911,3435,"NA","US","US-KS","Leoti","no","00AA",,"00AA",,,
+6524,"00AK","small_airport","Lowell Field",59.947733,-151.692524,450,"NA","US","US-AK","Anchor Point","no","00AK",,"00AK",,,
+6525,"00AL","small_airport","Epps Airpark",34.86479949951172,-86.77030181884766,820,"NA","US","US-AL","Harvest","no","00AL",,"00AL",,,
+506791,"00AN","small_airport","Katmai Lodge Airport",59.093287,-156.456699,80,"NA","US","US-AK","King Salmon","no","00AN",,"00AN",,,
+6526,"00AR","closed","Newport Hospital & Clinic Heliport",35.6087,-91.254898,237,"NA","US","US-AR","Newport","no",,,,,,"00AR"
+322127,"00AS","small_airport","Fulton Airport",34.9428028,-97.8180194,1100,"NA","US","US-OK","Alex","no","00AS",,"00AS",,,
+6527,"00AZ","small_airport","Cordes Airport",34.305599212646484,-112.16500091552734,3810,"NA","US","US-AZ","Cordes","no","00AZ",,"00AZ",,,
+46378,"ZZ-0001","heliport","Sealand Helipad",51.894444,1.4825,40,"EU","GB","GB-ENG","Sealand","no",,,,"http://www.sealandgov.org/","https://en.wikipedia.org/wiki/Principality_of_Sealand","Roughs Tower Helipad"
+307326,"ZZ-0002","small_airport","Glorioso Islands Airstrip",-11.584277777799999,47.296388888900005,11,"AF","TF","TF-U-A","Grande Glorieuse","no",,,,,,
+346788,"ZZ-0003","small_airport","Fainting Goat Airport",32.110587,-97.356312,690,"NA","US","US-TX","Blum","no","87TX",,"87TX",,,
+342102,"ZZZW","closed","Scandium City Heliport",69.355287,-138.93931,4,"NA","CA","CA-YT","(Old) Scandium City","no",,,,,,"ZZZW, ZZZW, ZYW, YK96"
+313629,"ZZZZ","small_airport","Satsuma Iōjima Airport",30.784722,130.270556,338,"AS","JP","JP-46","Mishima","no","RJX7",,"RJX7",,"http://wikimapia.org/6705190/Satsuma-Iwo-jima-Airport","SATSUMA,IWOJIMA,RJX7"
