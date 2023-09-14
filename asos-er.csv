@@ -127,7 +127,7 @@ id,status,wfo,ident,name,city,state,latitude_deg,longitude_deg
 126,GREEN,ILM,KILM,Wilmington International Airport,Wilmington,NC,34.27059937,-77.90260315
 127,GREEN,ILM,KLBT,Lumberton Regional Airport,Lumberton,NC,34.610773,-79.05943
 128,GREEN,ILN,KCMH,John Glenn Columbus International Airport,Columbus,OH,39.998001,-82.891899
-129,GREEN,ILN,KCVG,Cincinnati Northern Kentucky International Airport,Cincinnati / Covington,KY,39.0478 ,-84.6667
+129,GREEN,ILN,KCVG,Cincinnati Northern Kentucky International Airport,Cincinnati / Covington,KY,39.0478Â ,-84.6667
 130,GREEN,ILN,KDAY,James M Cox Dayton International Airport,Dayton,OH,39.902401,-84.219398
 131,GREEN,ILN,KHAO,Butler Co Regional Airport - Hogan Field,Hamilton,OH,39.36380005,-84.52200317
 132,GREEN,ILN,KILN,Wilmington Airpark,Wilmington,OH,39.42789841,-83.792099
