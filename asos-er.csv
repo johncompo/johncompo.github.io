@@ -1,0 +1,208 @@
+id,status,wfo,ident,name,city,state,latitude_deg,longitude_deg
+1,GREEN,AKQ,KAKQ,Wakefield Municipal Airport,Wakefield,VA,42.69589996,-73.17040253
+2,GREEN,AKQ,KECG,Elizabeth City Regional Airport & Coast Guard Air Station,Elizabeth City,NC,36.260601,-76.174599
+3,GREEN,AKQ,KOFP,Hanover County Municipal Airport,Hanover,VA,37.709,-77.436699
+4,GREEN,AKQ,KORF,Norfolk International Airport,Norfolk,VA,36.8946,-76.201202
+5,GREEN,AKQ,KOXB,Ocean City Municipal Airport,Ocean City,MD,38.3103981,-75.12400055
+6,GREEN,AKQ,KPHF,Newport News Williamsburg International Airport,Newport News,VA,37.131901,-76.492996
+7,GREEN,AKQ,KRIC,Richmond International Airport,Richmond,VA,37.50519943,-77.31970215
+8,GREEN,AKQ,KSBY,Salisbury Ocean City Wicomico Regional Airport,Salisbury,MD,38.34049988,-75.51029968
+9,GREEN,AKQ,KWAL,Wallops Flight Facility Airport,Wallops Island,VA,37.940813,-75.462255
+10,GREEN,ALY,KALB,Albany International Airport,Albany,NY,42.74829865,-73.80169678
+11,GREEN,ALY,KAQW,Harriman and West Airport,North Adams,MA,42.69589996,-73.17040253
+12,GREEN,ALY,KDDH,William H Morse State Airport,Bennington,VT,42.8913,-73.246399
+13,GREEN,ALY,KGFL,Floyd Bennett Memorial Airport,Glens Falls,NY,43.34120178,-73.61029816
+14,GREEN,ALY,KPOU,Dutchess County Airport,Poughkeepsie,NY,41.62659836,-73.88420105
+15,GREEN,ALY,KPSF,Pittsfield Municipal Airport,Pittsfield,MA,42.4268,-73.2929
+16,GREEN,BGM,KAVP,Wilkes Barre Scranton International Airport,Wilkes-Barre/Scranton,PA,41.33850098,-75.7233963
+17,GREEN,BGM,KBGM,Greater Binghamton/Edwin A Link field,Binghamton,PA,42.20869827,-75.97979736
+18,GREEN,BGM,KELM,Elmira Corning Regional Airport,Elmira/Corning,NY,42.15990067,-76.89160156
+19,GREEN,BGM,KPEO,Penn Yan Airport,Penn Yan,NY,42.63710022,-77.05290222
+20,GREEN,BGM,KRME,Griffiss International Airport,Rome,NY,43.23379898,-75.40699768
+21,GREEN,BGM,KSYR,Syracuse Hancock International Airport,Syracuse,NY,43.11119843,-76.10630035
+22,GREEN,BOX,KACK,Nantucket Memorial Airport,Nantucket,VT,41.25310135,-70.06020355
+23,GREEN,BOX,KAFN,Jaffrey Airfield Silver Ranch Airport,Jaffrey,NH,42.805099,-72.002998
+24,GREEN,BOX,KBAF,Westfield-Barnes Regional Airport,Westfield,MA,42.157799,-72.715599
+25,GREEN,BOX,KBDL,Bradley International Airport,Hartford,CT,41.93851,-72.688066
+26,GREEN,BOX,KBED,Laurence G Hanscom Field,Bedford,MA,42.470001,-71.289001
+27,GREEN,BOX,KBOS,Logan International Airport,Boston,MA,42.3643,-71.005203
+28,GREEN,BOX,KBVY,Beverly Regional Airport,Beverly / Danvers,MA,42.584202,-70.916496
+29,GREEN,BOX,KCQX,Chatham Municipal Airport,Chatham,MA,41.68840027,-69.98950195
+30,GREEN,BOX,KEWB,New Bedford Regional Airport,New Bedford,MA,41.67610168,-70.95690155
+31,GREEN,BOX,KFIT,Fitchburg Municipal Airport,Fitchburg,MA,42.55410004,-71.75900269
+32,GREEN,BOX,KHFD,Hartford Brainard Airport,Hartford,CT,41.73669815,-72.6493988
+33,GREEN,BOX,KHYA,Cape Cod Gateway Airport,Hyannis,MA,41.6693,-70.280403
+34,GREEN,BOX,KIJD,Windham Airport,North Windham,CT,41.743999,-72.180298
+35,GREEN,BOX,KLWM,Lawrence Municipal Airport,Lawrence,MA,42.71720123,-71.12339783
+36,GREEN,BOX,KMHT,Manchester-Boston Regional Airport,Manchester,NH,42.932598,-71.435699
+37,GREEN,BOX,KMQE,Blue Hill Observatory,Norfolk,MA,42.211944,-71.113888
+38,GREEN,BOX,KMVY,Martha's Vineyard Airport,Martha's Vineyard,MA,41.39310074,-70.61430359
+39,GREEN,BOX,KORE,Orange Municipal Airport,Orange,MA,42.57009888,-72.28859711
+40,GREEN,BOX,KORH,Worcester Regional Airport,Worcester,MA,42.2673,-71.875702
+41,GREEN,BOX,KOWD,Norwood Memorial Airport,Norwood,MA,42.19049835,-71.17289734
+42,GREEN,BOX,KPVD,Theodore Francis Green State Airport,Warwick,RI,41.725038,-71.425668
+43,GREEN,BOX,KPYM,Plymouth Municipal Airport,Plymouth,MA,41.909,-70.728798
+44,GREEN,BOX,KTAN,Taunton Municipal King Field,Taunton,MA,41.87440109,-71.01660156
+45,GREEN,BOX,KUUU,Newport State Airport,Newport,RI,41.532398,-71.281502
+46,GREEN,BOX,KWST,Westerly State Airport,Westerly,RI,41.34960175,-71.80339813
+47,GREEN,BUF,KART,Watertown International Airport,Watertown,NY,43.991901,-76.021698
+48,GREEN,BUF,KBUF,Buffalo Niagara International Airport,Buffalo,NY,42.94049835,-78.73220062
+49,GREEN,BUF,KDKK,Chautauqua County-Dunkirk Airport,Dunkirk,NY,42.49247,-79.273102
+50,GREEN,BUF,KDSV,Dansville Municipal Airport,Dansville,NY,42.570545,-77.713273
+51,GREEN,BUF,KELZ,Wellsville Municipal Airport - Tarantine Field,Wellsville,NY,42.109501,-77.989998
+52,GREEN,BUF,KFZY,Oswego County Airport,Fulton,NY,43.35079956,-76.38809967
+53,GREEN,BUF,KIAG,Niagara Falls International Airport,Niagara Falls,NY,43.1073,-78.946198
+54,GREEN,BUF,KROC,Frederick Douglass Greater Rochester International Airport,Rochester,NY,43.1189,-77.672401
+55,GREEN,BTV,KBTV,Burlington International Airport,South Burlington,VT,44.471901,-73.153297
+56,GREEN,BTV,KLEB,Lebanon Municipal Airport,Lebanon,NH,43.62609863,-72.30419922
+57,GREEN,BTV,KMPV,Edward F Knapp State Airport,Barre/Montpelier,VT,44.20349884,-72.56230164
+58,GREEN,BTV,KMSS,Massena International Airport Richards Field,Massena,VT,44.936157,-74.844304
+59,GREEN,BTV,KMVL,Morrisville-Stowe State Airport,Morrisville,VT,44.534599,-72.613998
+60,GREEN,BTV,KPBG,Plattsburgh International Airport,Plattsburgh,NY,44.65090179,-73.4681015
+61,GREEN,BTV,KSLK,Adirondack Regional Airport,Saranac Lake,NY,44.38691,-74.204629
+62,GREEN,BTV,KVSF,Hartness State Airport,North Springfield,VT,43.343601,-72.517303
+63,GREEN,BTV,K1V4,Fairbanks Museum,St. Johnsbury,VT,44.42,-72.0208
+64,GREEN,CAE,KAGS,Augusta Regional At Bush Field,Augusta,GA,-81.9645,-81.9644
+65,GREEN,CAE,KCAE,Columbia Metropolitan Airport,Columbia,SC,33.938801,-81.119499
+66,GREEN,CAE,KCUB,Jim Hamilton L.B. Owens Airport,Columbia,SC,33.97050095,-80.99520111
+67,GREEN,CAE,KDNL,Daniel Field,Augusta,GA,33.4664,-82.0394
+68,GREEN,CAE,KOGB,Orangeburg Municipal Airport,Orangeburg,SC,33.45679855,-80.85949707
+69,GREEN,CAR,KBGR,Bangor International Airport,Bangor,ME,44.8074,-68.828102
+70,GREEN,CAR,KCAR,Caribou Municipal Airport,Caribou,ME,46.871498,-68.017899
+71,GREEN,CAR,KFVE,Northern Aroostook Regional Airport,Frenchville,ME,47.28549957,-68.31279755
+72,GREEN,CAR,KGNR,Greenville Municipal Airport,Greenville ,ME,45.4625,-69.5522
+73,GREEN,CAR,KHUL,Houlton International Airport,Houlton,ME,46.12310028,-67.792099
+74,GREEN,CAR,KMLT,Millinocket Municipal Airport,Millinocket,ME,45.64780045,-68.68560028
+75,GREEN,CHS,KCHS,Charleston International Airport,Charleston,SC,32.898602,-80.040497
+76,GREEN,CHS,KSAV,Savannah Hilton Head International Airport,Savannah,GA,32.1275,-81.2019
+77,GREEN,CLE,KAKR,Akron Executive Airport,Akron,OH,41.037498,-81.466904
+78,GREEN,CLE,KBJJ,Wayne County Airport,Wooster,OH,40.87480164,-81.88829803
+79,GREEN,CLE,KBKL,Burke Lakefront Airport,Cleveland,OH,41.51750183,-81.6832962
+80,GREEN,CLE,KCAK,Akron Canton Regional Airport,Akron,OH,40.91609955,-81.44219971
+81,GREEN,CLE,KCLE,Cleveland Hopkins International Airport,Cleveland,OH,41.4117012,-81.84980011
+82,GREEN,CLE,KERI,Erie International Tom Ridge Field,Erie,PA,42.083127,-80.173867
+83,GREEN,CLE,KFDY,Findlay Airport,Findlay,OH,41.01350021,-83.66870117
+84,GREEN,CLE,KGKJ,Port Meadville Airport,Meadville,PA,41.626499,-80.214699
+85,GREEN,CLE,KHZY,Northeast Ohio Regional Airport,Ashtabula,OH,41.778,-80.695503
+86,GREEN,CLE,KLPR,Lorain County Regional Airport,Lorain/Elyria,OH,41.34429932,-82.17759705
+87,GREEN,CLE,KMFD,Mansfield Lahm Regional Airport,Mansfield,OH,40.82139969,-82.51660156
+88,GREEN,CLE,KMNN,Marion Municipal Airport,Marion,OH,40.61619949,-83.06349945
+89,GREEN,CLE,KTDZ,Toledo Executive Airport,Toledo,OH,41.56489944,-83.4822998
+90,GREEN,CLE,KTOL,Eugene F. Kranz Toledo Express Airport,Toledo,OH,41.5868,-83.8078
+91,GREEN,CLE,KYNG,Youngstown Warren Regional Airport,Youngstown/Warren,OH,41.26070023,-80.67910004
+92,GREEN,CTP,KAOO,Altoona Blair County Airport,Altoona,PA,40.296398,-78.32
+93,GREEN,CTP,KBFD,Bradford Regional Airport,Bradford,PA,41.80310059,-78.64009857
+94,GREEN,CTP,KCXY,Capital City Airport,Harrisburg,PA,40.21709824,-76.85150146
+95,GREEN,CTP,KFIG,Clearfield Lawrence Airport,Clearfield,PA,41.049032,-78.415003
+96,GREEN,CTP,KIPT,Williamsport Regional Airport,Williamsport,PA,41.2417984,-76.9210968
+97,GREEN,CTP,KJST,John Murtha Johnstown Cambria County Airport,Johnstown,PA,40.31610107,-78.83390045
+98,GREEN,CTP,KLNS,Lancaster Airport,Lancaster,PA,40.12170029,-76.2960968
+99,GREEN,CTP,KMDT,Harrisburg International Airport,Harrisburg,PA,40.193501,-76.763397
+100,GREEN,CTP,KSEG,Penn Valley Airport,Selinsgrove,PA,40.8205986,-76.86389923
+101,GREEN,CTP,KTHV,York Airport,Thomasville,PA,39.917,-76.873001
+102,GREEN,GSP,KAND,Anderson Regional Airport,Anderson,SC,34.49459839,-82.70939636
+103,GREEN,GSP,KAKH,Gastonia Municipal Airport,Gastonia,NC,35.202598,-81.149902
+104,GREEN,GSP,KAVL,Asheville Regional Airport,Asheville,NC,35.436199,-82.541801
+105,GREEN,GSP,KCEU,Oconee County Regional Airport,Clemson,SC,34.6719017,-82.8864975
+106,GREEN,GSP,KCLT,Charlotte Douglas International Airport,Charlotte,NC,35.2140007,-80.94309998
+107,GREEN,GSP,KEQY,Charlotte-Monroe Executive Airport,Monroe,NC,35.01879883,-80.62020111
+108,GREEN,GSP,KGMU,Greenville Downtown Airport,Greenville,SC,34.847903,-82.350217
+109,GREEN,GSP,KGRD,Greenwood County Airport,Greenwood,SC,34.24869919,-82.15910339
+110,GREEN,GSP,KGSP,Greenville Spartanburg International Airport,Greer,SC,34.895699,-82.218903
+111,GREEN,GSP,KHKY,Hickory Regional Airport,Hickory,NC,35.74110031,-81.38950348
+112,GREEN,GSP,KUZA,Rock Hill - York County Airport,Rock Hill,SC,34.9878006,-81.05719757
+113,GREEN,GYX,KAFN,Jaffrey Airfield Silver Ranch Airport,Jaffrey,NH,42.805099,-72.002998
+114,GREEN,GYX,KAUG,Augusta State Airport,Augusta,ME,44.3205986,-69.79730225
+115,GREEN,GYX,KBML,Berlin Regional Airport,Berlin,NH,44.57540131,-71.17590332
+116,GREEN,GYX,KCON,Concord Municipal Airport,Concord,NH,43.20270157,-71.50229645
+117,GREEN,GYX,KDAW,Skyhaven Airport,Rochester,NH,43.28409958,-70.9292984
+118,GREEN,GYX,KHIE,Mount Washington Regional Airport,Whitefield,NH,44.36752,-71.545765
+119,GREEN,GYX,KIZG,Eastern Slopes Regional Airport,Fryeburg,ME,43.99110031,-70.94789886
+120,GREEN,GYX,KIWI,Wiscasset Airport,Wiscasset,ME,43.96139908,-69.71260071
+121,GREEN,GYX,KMHT,Manchester-Boston Regional Airport,Manchester,NH,42.932598,-71.435699
+122,GREEN,GYX,KPWM,Portland International Jetport,Portland,ME,43.646198,-70.309303
+123,GREEN,GYX,K3B1,Greenville Municipal Airport,Greenville,ME,45.46300125,-69.5515976
+124,GREEN,ILM,KCRE,Grand Strand Airport,North Myrtle Beach,SC,33.81169891,-78.72389984
+125,GREEN,ILM,KFLO,Florence Regional Airport,Florence,SC,34.1853981,-79.72389984
+126,GREEN,ILM,KILM,Wilmington International Airport,Wilmington,NC,34.27059937,-77.90260315
+127,GREEN,ILM,KLBT,Lumberton Regional Airport,Lumberton,NC,34.610773,-79.05943
+128,GREEN,ILN,KCMH,John Glenn Columbus International Airport,Columbus,OH,39.998001,-82.891899
+129,GREEN,ILN,KCVG,Cincinnati Northern Kentucky International Airport,Cincinnati / Covington,KY,39.0478 ,-84.6667
+130,GREEN,ILN,KDAY,James M Cox Dayton International Airport,Dayton,OH,39.902401,-84.219398
+131,GREEN,ILN,KHAO,Butler Co Regional Airport - Hogan Field,Hamilton,OH,39.36380005,-84.52200317
+132,GREEN,ILN,KILN,Wilmington Airpark,Wilmington,OH,39.42789841,-83.792099
+133,GREEN,ILN,KLHQ,Fairfield County Airport,Lancaster,OH,39.75559998,-82.65709686
+134,GREEN,ILN,KLUK,Cincinnati Municipal Airport Lunken Field,Cincinnati,OH,39.10329819,-84.41860199
+135,GREEN,ILN,KMGY,Dayton-Wright Brothers Airport,Dayton,OH,39.5890007,-84.22489929
+136,GREEN,ILN,KOSU,The Ohio State University Airport - Don Scott Field,Columbus,OH,40.0798,-83.072998
+137,GREEN,ILN,KVTA,Newark Heath Airport,Newark,OH,40.02470016,-82.46179962
+138,GREEN,LWX,KBWI,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,MD,39.1754,-76.668297
+139,GREEN,LWX,KCHO,Charlottesville Albemarle Airport,Charlottesville,VA,38.1385994,-78.45290375
+140,GREEN,LWX,KDCA,Ronald Reagan Washington National Airport,Washington,DC,38.8521,-77.037697
+141,GREEN,LWX,KDMH,Green Ridge,Allegany,MD,39.2814,-76.6089
+142,GREEN,LWX,KHGR,Hagerstown Regional Richard A Henson Field,Hagerstown,MD,39.707901,-77.72949982
+143,GREEN,LWX,KIAD,Washington Dulles International Airport,Dulles,VA,38.9445,-77.455803
+144,GREEN,LWX,KMRB,Eastern WV Regional Airport/Shepherd Field,Martinsburg,WV,39.40190125,-77.98459625
+145,GREEN,LWX,KNAK,US Naval Academy,Annapolis,,38.9833,-76.7047
+146,GREEN,MHX,KEWN,Coastal Carolina Regional Airport,New Bern,NC,35.07300186,-77.04290009
+147,GREEN,MHX,KHSE,Billy Mitchell Airport,Hatteras,NC,35.23279953,-75.61779785
+148,GREEN,MHX,KMRH,Michael J. Smith Field,Beaufort,NC,34.73360062,-76.66059875
+149,GREEN,OKX,KBDR,Igor I Sikorsky Memorial Airport,Bridgeport,CT,41.16350174,-73.12619781
+150,GREEN,OKX,KCDW,Essex County Airport,Caldwell,NJ,40.87519836,-74.28140259
+151,GREEN,OKX,KDXR,Danbury Municipal Airport,Danbury,CT,41.37149811,-73.48220062
+152,GREEN,OKX,KEWR,Newark Liberty International Airport,Newark,NJ,40.692501,-74.168701
+153,GREEN,OKX,KFOK,Francis S Gabreski Airport,Westhampton Beach,NY,40.84370041,-72.63179779
+154,GREEN,OKX,KFRG,Republic Airport,Farmingdale,NY,40.72880173,-73.41339874
+155,GREEN,OKX,KGON,Groton New London Airport,Groton,CT,41.330101,-72.045097
+156,GREEN,OKX,KHPN,Westchester County Airport,White Plains,NY,41.06700134,-73.70760345
+157,GREEN,OKX,KHVN,Tweed New Haven Airport,New Haven,CT,41.26369858,-72.88680267
+158,GREEN,OKX,KHWV,Brookhaven Calabro Airport,Shirley,NY,40.821899,-72.8694
+159,GREEN,OKX,KISP,Long Island Mac Arthur Airport,Islip,NY,40.79520035,-73.10019684
+160,GREEN,OKX,KJFK,John F Kennedy International Airport,New York,NY,40.639447,-73.779317
+161,GREEN,OKX,KLGA,La Guardia Airport,New York,NY,40.777199,-73.872597
+162,GREEN,OKX,KMGJ,Orange County Airport,Montgomery,NY,41.50999832,-74.26460266
+163,GREEN,OKX,KMMK,Meriden Markham Municipal Airport,Meriden,CT,41.50870132,-72.82949829
+164,GREEN,OKX,KMTP,Montauk Airport,Montauk,NY,41.0765,-71.920797
+165,GREEN,OKX,KNYC,Central Park,New York,NY,40.7667,-73.9833
+166,GREEN,OKX,KTEB,Teterboro Airport,Teterboro,NY,40.85010147,-74.06079865
+167,GREEN,KPBZ,KAGC,Allegheny County Airport,Pittsburgh,PA,40.354401,-79.930199
+168,GREEN,KPBZ,KDUJ,DuBois Regional Airport,Dubois,PA,41.17829895,-78.8986969
+169,GREEN,KPBZ,KHLG,Wheeling Ohio County Airport,Wheeling,WV,40.17499924,-80.64630127
+170,GREEN,KPBZ,KMGW,Morgantown Municipal Airport Walter L. (Bill) Hart Field,Morgantown,WV,39.643305,-79.917598
+171,GREEN,KPBZ,KPHD,Harry Clever Field,New Philadelphia,OH,40.47090149,-81.41970062
+172,GREEN,KPBZ,KPIT,Pittsburgh International Airport,Pittsburgh,PA,40.49150085,-80.23290253
+173,GREEN,KPBZ,KZZV,Zanesville Municipal Airport,Zanesville,OH,39.94440079,-81.89209747
+174,GREEN,PHL,KABE,Lehigh Valley International Airport,Allentown,PA,40.651773,-75.442797
+175,GREEN,PHL,KACY,Atlantic City International Airport,Atlantic City,NJ,39.45759964,-74.57720184
+176,GREEN,PHL,KDYL,Doylestown Airport,Doylestown,PA,40.33300018,-75.12229919
+177,GREEN,PHL,KFWN,Sussex Airport,Sussex,NJ,41.20019913,-74.6230011
+178,GREEN,PHL,KGED,Delaware Coastal Airport,Georgetown,DE,38.689201,-75.358902
+179,GREEN,PHL,KILG,New Castle Airport,Wilmington,DE,39.67869949,-75.60649872
+180,GREEN,PHL,KMIV,Millville Municipal Airport,Millville,NJ,39.367802,-75.072197
+181,GREEN,PHL,KMPO,Pocono Mountains Municipal Airport,Mount Pocono,PA,41.136025,-75.379572
+182,GREEN,PHL,KPHL,Philadelphia International Airport,Philadelphia,PA,39.87189865,-75.2410965
+183,GREEN,PHL,KPNE,Northeast Philadelphia Airport,Philadelphia,PA,40.081902,-75.010597
+184,GREEN,PHL,KPTW,Heritage Field,Pottstown,PA,40.239601,-75.556702
+185,GREEN,PHL,KRDG,Reading Regional Airport (Carl A Spaatz Field),Reading,PA,40.378502,-75.965202
+186,GREEN,PHL,KSMQ,Somerset Airport,Somerville,NJ,40.62599945,-74.67019653
+187,GREEN,PHL,KTTN,Trenton Mercer Airport,Trenton,NJ,40.27669907,-74.81349945
+188,GREEN,PHL,KVAY,South Jersey Regional Airport,Lumberton,NJ,39.942902,-74.845703
+189,GREEN,PHL,K12N,Aeroflex-Andover Airport,Andover,NJ,41.008598,-74.737999
+190,GREEN,RAH,KBUY,Burlington Alamance Regional Airport,Burlington,NC,36.04850006,-79.47489929
+191,GREEN,RAH,KFAY,Fayetteville Regional Airport - Grannis Field,Fayetteville,NC,34.991199,-78.880302
+192,GREEN,RAH,KGSO,Piedmont Triad International Airport,Greensboro,NC,36.097801,-79.937302
+193,GREEN,RAH,KIGX,Horace Williams Airport,Chapel Hill,NC,35.935001,-79.065902
+194,GREEN,RAH,KINT,Smith Reynolds Airport,Winston Salem,NC,36.13370132,-80.22200012
+195,GREEN,RAH,KMEB,Laurinburg Maxton Airport,Maxton,NC,34.791901,-79.365799
+196,GREEN,RAH,KRDU,Raleigh Durham International Airport,Raleigh/Durham,NC,35.877602,-78.787498
+197,GREEN,RAH,KRWI,Rocky Mount Wilson Regional Airport,Rocky Mount,NC,35.85630035,-77.89189911
+198,GREEN,RLX,KBKW,Raleigh County Memorial Airport,Beckley,WV,37.78730011,-81.12419891
+199,GREEN,RLX,KCKB,North Central West Virginia Airport,Bridgeport,WV,39.2966,-80.228104
+200,GREEN,RLX,KCRW,Yeager Airport,Charleston,WV,38.3731,-81.593201
+201,GREEN,RLX,KEKN,Elkins-Randolph County Regional Airport,Elkins,WV,38.889759,-79.857651
+202,GREEN,RLX,KHTS,Tri-State Airport / Milton J. Ferguson Field,Huntington,WV,38.366699,-82.557999
+203,GREEN,RLX,KPKB,Mid Ohio Valley Regional Airport,Parkersburg (Williamstown),WV,39.3451,-81.439201
+204,GREEN,RNK,KBLF,Mercer County Airport,Bluefield,WV,37.295799,-81.207703
+205,GREEN,RNK,KDAN,Danville Regional Airport,Danville,VA,36.572899,-79.336098
+206,GREEN,RNK,KLYH,Lynchburg Regional Airport - Preston Glenn Field,Lynchburg,VA,37.326698,-79.200401
+207,GREEN,RNK,KROA,Roanoke/Blacksburg Regional Airport,Roanoke,VA,37.3255,-79.975403
